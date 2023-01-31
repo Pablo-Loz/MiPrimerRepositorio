@@ -1,0 +1,1 @@
+Este proyecto trata sobre git y su uso con github
